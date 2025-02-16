@@ -1,5 +1,11 @@
 # 💫 About Me:
-    I'm a versatile developer who loves to experiment with new technologies and frameworks<br>    🔧 Tech Stack:<br>    * Frontend: HTML, CSS, JavaScript, React, Angular, Vue.js<br><br>    *  Backend: Node.js, Express, Django, Ruby on Rails<br><br>    *   Databases: MongoDB, MySQL, PostgreSQL<br><br>    *   DevOps: Docker, Kubernetes, Jenkins<br><br>    *   Tools & Platforms: Git, GitHub, VS Code, AWS.
+    I'm a versatile developer who loves to experiment with new technologies and frameworks<br>  
+    🔧 Tech Stack:<br>   
+    * Frontend: HTML, CSS, JavaScript, React, Angular, Vue.js<br><br>   
+    *  Backend: Node.js, Express, Django, Ruby on Rails<br><br>   
+    *   Databases: MongoDB, MySQL, PostgreSQL<br><br>    
+    *   DevOps: Docker, Kubernetes, Jenkins<br><br>    
+    *   Tools & Platforms: Git, GitHub, VS Code, AWS.
 
 
 ## 🌐 Socials:
