@@ -51,7 +51,7 @@ I'm a passionate developer who loves to experiment with new technologies and fra
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ritik-bit-by-bit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
@@ -66,4 +66,4 @@ I'm a passionate developer who loves to experiment with new technologies and fra
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/9696588474@paytm) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  add animation in logos and give me a 3d boy who is coding in which boy moves when pointed cursor on it . overall also make background black and add much beautiful colours to it
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
