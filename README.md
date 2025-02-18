@@ -38,7 +38,6 @@ I'm a passionate developer who loves to experiment with new technologies and fra
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)  
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/btw_its_essei) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ritikryadav96) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritikroshanyadav9696@gmail.com) 
@@ -54,7 +53,6 @@ I'm a passionate developer who loves to experiment with new technologies and fra
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 [![](https://visitcount.itsvg.in/api?id=ritik-bit-by-bit&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <picture>
@@ -65,5 +63,7 @@ I'm a passionate developer who loves to experiment with new technologies and fra
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/9696588474@paytm) 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
