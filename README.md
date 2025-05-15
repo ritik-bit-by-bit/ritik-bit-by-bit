@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20Devs!%20I'm%20a%20Versatile%20Developer!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=40)
+
 
 ## 🚀 About Me
 I'm a passionate developer who loves to experiment with new technologies and frameworks. Always excited to learn and contribute to open-source projects!
