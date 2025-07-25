@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img src="https://i.imgur.com/UWxJjzJ.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
+  <img src="https://media.tenor.com/dSsf8n5A4P0AAAAC/music-bar-bar.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
 </p>
 
 <!-- MOTTO / SLOGAN -->
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/UWxJjzJ.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
+  <img src="https://media.tenor.com/dSsf8n5A4P0AAAAC/music-bar-bar.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
 </p>
 
 <!-- ANIMATED STATS BAR (COMMIT GRAPH) -->
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/UWxJjzJ.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
+  <img src="https://media.tenor.com/dSsf8n5A4P0AAAAC/music-bar-bar.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
 </p>
 
 <!-- VISITOR COUNTER & SOCIAL BUTTONS -->
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/UWxJjzJ.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
+  <img src="https://media.tenor.com/dSsf8n5A4P0AAAAC/music-bar-bar.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
 </p>
 
 <!-- WHAT I'M DOING -->
@@ -59,7 +59,7 @@
 </ul>
 
 <p align="center">
-  <img src="https://i.imgur.com/UWxJjzJ.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
+  <img src="https://media.tenor.com/dSsf8n5A4P0AAAAC/music-bar-bar.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
 </p>
 
 <!-- SKILL SET GRID (WITH ICONS + NAMES, TABLE STYLE) -->
@@ -122,7 +122,7 @@
 </table>
 
 <p align="center">
-  <img src="https://i.imgur.com/UWxJjzJ.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
+  <img src="https://media.tenor.com/dSsf8n5A4P0AAAAC/music-bar-bar.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
 </p>
 
 <!-- CATEGORIZED SKILLS -->
@@ -179,7 +179,7 @@
 </table>
 
 <p align="center">
-  <img src="https://i.imgur.com/UWxJjzJ.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
+  <img src="https://media.tenor.com/dSsf8n5A4P0AAAAC/music-bar-bar.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
 </p>
 
 <!-- GITHUB STATS -->
@@ -201,7 +201,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/UWxJjzJ.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
+  <img src="https://media.tenor.com/dSsf8n5A4P0AAAAC/music-bar-bar.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
 </p>
 
 <!-- LEETCODE STATS -->
@@ -211,7 +211,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/UWxJjzJ.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
+  <img src="https://media.tenor.com/dSsf8n5A4P0AAAAC/music-bar-bar.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
 </p>
 
 <!-- ACHIEVEMENTS -->
@@ -225,7 +225,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/UWxJjzJ.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
+  <img src="https://media.tenor.com/dSsf8n5A4P0AAAAC/music-bar-bar.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
 </p>
 
 <!-- MOST USED LANGUAGES -->
@@ -239,5 +239,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/UWxJjzJ.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
+  <img src="https://media.tenor.com/dSsf8n5A4P0AAAAC/music-bar-bar.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
 </p>
