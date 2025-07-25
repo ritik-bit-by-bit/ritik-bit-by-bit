@@ -60,6 +60,7 @@
 </p>
 
 <!-- TECH STACK GRID -->
+<!-- SKILL GRID -->
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -89,11 +90,11 @@
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/><br/>PostgreSQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br/>MySQL
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br/>C++
     </td>
@@ -121,11 +122,11 @@
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/><br/>Next.js
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/><br/>Redux
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/><br/>Tailwind
     </td>
@@ -153,11 +154,11 @@
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/><br/>Jenkins
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/><br/>Postman
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="45"/><br/>Socket.io
     </td>
@@ -165,32 +166,49 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/><br/>Bootstrap
     </td>
     <td align="center" width="90">
+      <!-- JWT Icon (from Devicon, may look like a key/shield) -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-plain.svg" width="45"/><br/>JWT
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" width="45"/><br/>EJS
+      <!-- EJS Icon (unofficial, but widely used in Devicon) -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" width="45"/><br/>EJS
     </td>
     <td align="center" width="90">
+      <!-- React Router -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="45"/><br/>React Router
     </td>
     <td align="center" width="90">
+      <!-- Vite -->
       <img src="https://skillicons.dev/icons?i=vite" width="45"/><br/>Vite
     </td>
     <td align="center" width="90">
+      <!-- Postgres (already above, keeping for completeness) -->
       <img src="https://skillicons.dev/icons?i=postgres" width="45"/><br/>Postgres
+    </td>
+    <td align="center" width="90">
+      <!-- Three.js -->
+      <img src="https://skillicons.dev/icons?i=threejs" width="45"/><br/>Three.js
+    </td>
+    <td align="center" width="90">
+      <!-- GSAP -->
+      <img src="https://skillicons.dev/icons?i=gsap" width="45"/><br/>GSAP
+    </td>
+    <td align="center" width="90">
+      <!-- Shadcn UI (using PNG icon as SVG not available) -->
+      <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/apple-touch-icon.png" width="45" style="background:#fff; border-radius:8px;" /><br/>Shadcn UI
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- CATEGORIZED SKILLS (SPACED OUT) -->
+<!-- CATEGORIZED SKILLS (WITH NEW ICONS) -->
 <table align="center" width="100%">
 <tr>
   <td align="center" width="100%">
     <b>Programming Languages</b><br>
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=js&theme=dark" height="35"/>
   </td>
 </tr>
@@ -198,10 +216,10 @@
 <tr>
   <td align="center" width="100%">
     <b>Frontend Development</b><br>
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=css&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=gsap&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=gsap&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=threejs&theme=dark" height="35"/>
   </td>
 </tr>
@@ -209,19 +227,20 @@
 <tr>
   <td align="center" width="100%">
     <b>Libraries and Frameworks</b><br>
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="35"/>
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=shadcn&theme=dark" height="35"/>
   </td>
 </tr>
 <tr><td><br></td></tr>
 <tr>
   <td align="center" width="100%">
     <b>Databases</b><br>
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="35"/>
   </td>
 </tr>
@@ -229,13 +248,12 @@
 <tr>
   <td align="center" width="100%">
     <b>Cloud</b><br>
-    <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=netlify&theme=dark" height="35"/>
   </td>
 </tr>
 </table>
-
 
 <br>
 
