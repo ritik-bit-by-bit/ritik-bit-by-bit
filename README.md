@@ -207,8 +207,6 @@
 </p>
 
 <!-- FOOTER (OPTIONAL) -->
-<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2,4a00e0&height=80&section=footer&text=Thanks%20for%20visiting!%20🚀&fontColor=fff&fontSize=22&fontAlign=80&animation=twinkling" />
 </p>
--->
