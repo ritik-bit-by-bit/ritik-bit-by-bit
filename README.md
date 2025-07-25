@@ -131,11 +131,27 @@
 
 <br>
 
+<!-- HERO HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5edf,6a82fb,8e2de2,4a00e0&height=120&section=header&text=Ritik%20Roshan%20Yadav&fontColor=fff&fontSize=42&animation=twinkling" />
+  <br/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="280" alt="hero-waves"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=700&color=8E2DE2&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Cloud+Native+Enthusiast;Passionate+about+Open+Source+%E2%9C%A8;Welcome+to+my+colorful+GitHub+World!" />
+</p>
+
+<br/>
+
 <!-- SOCIAL -->
 <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46"/>
   <img src="https://img.shields.io/badge/-🌐%20Connect%20with%20Me-6a82fb?style=for-the-badge&labelColor=232946&color=6a82fb&labelWidth=210" height="32"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46"/>
 </p>
-<div align="center">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ritikryadav96" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=fff"/>
   </a>
@@ -148,9 +164,12 @@
   <a href="mailto:ritikroshanyadav9696@gmail.com">
     <img src="https://img.shields.io/badge/Email-6a82fb?logo=gmail&logoColor=fff&style=for-the-badge"/>
   </a>
-</div>
+</p>
 
-<br>
+<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/YlSR3n0xN9I4k/giphy.gif" height="24" />
+</p>
 
 <!-- GITHUB STATS WITH BURNING FIRE ANIMATION -->
 <p align="center">
@@ -158,27 +177,36 @@
 </p>
 
 <div align="center">
+  <!-- Burning fire GIF accent -->
   <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" height="56" alt="fire" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ritik-bit-by-bit&theme=radical&hide_border=true&background=232946&ring=ff512f&fire=ffb347&currStreakLabel=f09819&sideNums=f09819" width="480"/>
 
   <br>
 
+  <!-- Wobbling bar GIF divider for extra energy -->
+  <img src="https://media.giphy.com/media/3orieQEA8aG1X4HMP2/giphy.gif" height="30" alt="wavy-divider" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=ritik-bit-by-bit&show_icons=true&theme=radical&hide_border=true&title_color=ff512f&icon_color=ffb347&text_color=fff&bg_color=232946" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=radical&hide_border=true&title_color=f09819&text_color=fff&bg_color=232946&layout=compact" width="48%"/>
 </div>
 
-<br>
+<br/>
 
-<!-- DEV QUOTE -->
 <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"/>
   <img src="https://img.shields.io/badge/-✨%20Dev%20Quote-ff5edf?style=for-the-badge&labelColor=232946&color=ff5edf&labelWidth=130" height="32"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"/>
 </p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<br>
+<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/6z1qLqCSYc8Ba/giphy.gif" height="24" />
+</p>
 
 <!-- CONTRIBUTION SNAKE -->
 <p align="center">
@@ -192,7 +220,10 @@
   </picture>
 </p>
 
-<br>
+<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/YlSR3n0xN9I4k/giphy.gif" height="24" />
+</p>
 
 <!-- SUPPORT -->
 <p align="center">
@@ -207,5 +238,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2,4a00e0&height=80&section=footer&text=Thanks%20for%20visiting!&fontColor=fff&fontSize=22&fontAlign=80&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5edf,6a82fb,8e2de2,4a00e0&height=80&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%94%A5&fontColor=fff&fontSize=22&fontAlign=80&animation=twinkling" />
 </p>
