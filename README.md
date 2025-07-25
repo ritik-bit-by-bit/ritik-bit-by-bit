@@ -51,15 +51,6 @@
 <hr style="border: 0.5px solid #444;">
 
 <!-- SKILL SET GRID (WITH ICONS + NAMES, TABLE STYLE) -->
-<h2 align="center">
-  Skill Set <img src="https://img.icons8.com/color/48/000000/code.png" width="28"/>
-</h2>
-<p align="center">
-  <i>These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions.</i>
-</p>
-
-<!-- REAL TECH STACK GRID -->
-icon/icons/swift/swift-original.svg" width="45"/><br/>Swift
 <!-- SKILL SET GRID (WITH ICONS + NAMES, TABLE STYLE) -->
 <h2 align="center">
   Skill Set <img src="https://img.icons8.com/color/48/000000/code.png" width="28"/>
@@ -68,7 +59,7 @@ icon/icons/swift/swift-original.svg" width="45"/><br/>Swift
   <i>These technologies represent my expertise and hands-on experience. They've been integral to my work, enabling me to deliver impactful solutions.</i>
 </p>
 
-<!-- YOUR REAL TECH STACK GRID -->
+<!-- TECH STACK GRID -->
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -92,9 +83,6 @@ icon/icons/swift/swift-original.svg" width="45"/><br/>Swift
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/><br/>Express.js
     </td>
-<!--     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/><br/>Django
-    </td> -->
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>MongoDB
     </td>
@@ -173,12 +161,6 @@ icon/icons/swift/swift-original.svg" width="45"/><br/>Swift
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="45"/><br/>Socket.io
     </td>
-<!--     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="45"/><br/>Sequelize
-    </td> -->
-<!--     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45"/><br/>GraphQL
-    </td> -->
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/><br/>Bootstrap
     </td>
@@ -200,37 +182,60 @@ icon/icons/swift/swift-original.svg" width="45"/><br/>Swift
   </tr>
 </table>
 
-
 <br>
 
-<!-- CATEGORIZED SKILLS -->
-<table align="center">
+<!-- CATEGORIZED SKILLS (SPACED OUT) -->
+<table align="center" width="100%">
 <tr>
-  <td align="center"><b>Programming Languages</b><br>
-    <img src="https://skillicons.dev/icons?i=cpp,python,js" height="35"/>
+  <td align="center" width="100%">
+    <b>Programming Languages</b><br>
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" height="35"/>
   </td>
 </tr>
+<tr><td><br></td></tr>
 <tr>
-  <td align="center"><b>Frontend Development</b><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,gsap,shadcn,threejs" height="35"/>
+  <td align="center" width="100%">
+    <b>Frontend Development</b><br>
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=gsap&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=threejs&theme=dark" height="35"/>
   </td>
 </tr>
+<tr><td><br></td></tr>
 <tr>
-  <td align="center"><b>Libraries and Frameworks</b><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwind,bootstrap" height="35"/>
+  <td align="center" width="100%">
+    <b>Libraries and Frameworks</b><br>
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="35"/>
   </td>
 </tr>
+<tr><td><br></td></tr>
 <tr>
-  <td align="center"><b>Databases</b><br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" height="35"/>
+  <td align="center" width="100%">
+    <b>Databases</b><br>
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="35"/>
   </td>
 </tr>
+<tr><td><br></td></tr>
 <tr>
-  <td align="center"><b>Cloud</b><br>
-    <img src="https://skillicons.dev/icons?i=aws,vercel,netlify" height="35"/>
+  <td align="center" width="100%">
+    <b>Cloud</b><br>
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="35"/> &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=netlify&theme=dark" height="35"/>
   </td>
 </tr>
 </table>
+
 
 <br>
 
