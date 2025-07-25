@@ -152,15 +152,20 @@
 
 <br>
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS WITH BURNING FIRE ANIMATION -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-📊%20GitHub%20Stats-4A00E0?style=for-the-badge&labelColor=232946&color=4A00E0&labelWidth=170" height="32"/>
+  <img src="https://img.shields.io/badge/-🔥%20GitHub%20Stats%20%26%20Streak-ff512f?style=for-the-badge&labelColor=232946&color=ff512f&labelWidth=230" height="32"/>
 </p>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ritik-bit-by-bit&show_icons=true&theme=radical&hide_border=true&title_color=ff5edf&icon_color=8E2DE2&text_color=fff&bg_color=232946" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ritik-bit-by-bit&theme=radical&hide_border=true&background=232946&ring=ff5edf&currStreakLabel=8E2DE2" width="48%"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=radical&hide_border=true&title_color=4A00E0&text_color=fff&bg_color=232946&layout=compact" width="48%"/>
+  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" height="56" alt="fire" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ritik-bit-by-bit&theme=radical&hide_border=true&background=232946&ring=ff512f&fire=ffb347&currStreakLabel=f09819&sideNums=f09819" width="480"/>
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ritik-bit-by-bit&show_icons=true&theme=radical&hide_border=true&title_color=ff512f&icon_color=ffb347&text_color=fff&bg_color=232946" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=radical&hide_border=true&title_color=f09819&text_color=fff&bg_color=232946&layout=compact" width="48%"/>
 </div>
 
 <br>
