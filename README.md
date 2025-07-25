@@ -1,22 +1,26 @@
-<!-- HEADER: Futuristic Gradient with Typing -->
+<!-- ANIMATED SHOOTING STAR BANNER TOP -->
+<p align="center">
+  <img src="https://i.imgur.com/B2T8zmV.gif" width="100%" height="170px" style="border-radius: 16px;" alt="shooting-star-banner"/>
+</p>
+
+<!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2,4a00e0&height=90&section=header&text=Ritik%20Roshan%20Yadav&fontColor=fff&fontSize=38&animation=twinkling" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=700&color=8E2DE2&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Cloud+Native+Enthusiast;Passionate+about+Open+Source+%E2%9C%A8;Welcome+to+my+colorful+GitHub+World!" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=700&color=8E2DE2&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Cloud+Native+Enthusiast;Passionate+about+Open+Source+%E2%9C%A8;Welcome+to+my+animated+GitHub+space!" />
 </p>
 
 <!-- ABOUT ME -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-🚀%20About%20Me-8E2DE2?style=for-the-badge&labelColor=232946&color=8E2DE2&labelWidth=140" height="32"/>
+  <img src="https://img.shields.io/badge/-🚀%20About%20Me-8E2DE2?style=for-the-badge&labelColor=232946&color=8E2DE2" height="32"/>
 </p>
 <div align="center">
-  <table width="700" bgcolor="#212331" style="border-radius:20px; box-shadow: 0 0 16px #8E2DE299;">
+  <table width="700" bgcolor="#232331" style="border-radius:20px; box-shadow: 0 0 16px #8E2DE299;">
     <tr>
       <td style="padding:20px;">
         <div align="left" style="color:#e0e0ff;">
           <span style="font-size:20px;">
-            <b>👋 Hi, I'm Ritik! </b>
+            <b>👋 Hi, I'm Ritik!</b>
           </span><br><br>
           💫 <b>Passionate fullstack developer</b> who loves exploring new frameworks, AI, and automation.<br>
           🤝 Open source is my happy place.<br>
@@ -31,7 +35,7 @@
 
 <!-- TECH STACK -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-🛠️%20Tech%20Stack-ff5edf?style=for-the-badge&labelColor=232946&color=ff5edf&labelWidth=140" height="32"/>
+  <img src="https://img.shields.io/badge/-🛠️%20Tech%20Stack-ff5edf?style=for-the-badge&labelColor=232946&color=ff5edf" height="32"/>
 </p>
 <div align="center">
   <table width="700" bgcolor="#232946" style="border-radius:20px; box-shadow: 0 0 12px #8E2DE277;">
@@ -131,24 +135,9 @@
 
 <br>
 
-<!-- HERO HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5edf,6a82fb,8e2de2,4a00e0&height=120&section=header&text=Ritik%20Roshan%20Yadav&fontColor=fff&fontSize=42&animation=twinkling" />
-  <br/>
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="280" alt="hero-waves"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=700&color=8E2DE2&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Cloud+Native+Enthusiast;Passionate+about+Open+Source+%E2%9C%A8;Welcome+to+my+colorful+GitHub+World!" />
-</p>
-
-<br/>
-
 <!-- SOCIAL -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46"/>
-  <img src="https://img.shields.io/badge/-🌐%20Connect%20with%20Me-6a82fb?style=for-the-badge&labelColor=232946&color=6a82fb&labelWidth=210" height="32"/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46"/>
+  <img src="https://img.shields.io/badge/-🌐%20Connect%20with%20Me-6a82fb?style=for-the-badge&labelColor=232946&color=6a82fb" height="32"/>
 </p>
 
 <p align="center">
@@ -166,51 +155,35 @@
   </a>
 </p>
 
-<br/>
-<p align="center">
-  <img src="https://media.giphy.com/media/YlSR3n0xN9I4k/giphy.gif" height="24" />
-</p>
+<br>
 
-<!-- GITHUB STATS WITH BURNING FIRE ANIMATION -->
+<!-- GITHUB STATS & STREAK -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-🔥%20GitHub%20Stats%20%26%20Streak-ff512f?style=for-the-badge&labelColor=232946&color=ff512f&labelWidth=230" height="32"/>
+  <img src="https://img.shields.io/badge/-🔥%20GitHub%20Stats%20%26%20Streak-ff512f?style=for-the-badge&labelColor=232946&color=ff512f" height="32"/>
 </p>
 
 <div align="center">
-  <!-- Burning fire GIF accent -->
-  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" height="56" alt="fire" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ritik-bit-by-bit&theme=radical&hide_border=true&background=232946&ring=ff512f&fire=ffb347&currStreakLabel=f09819&sideNums=f09819" width="480"/>
-
   <br>
-
-  <!-- Wobbling bar GIF divider for extra energy -->
-  <img src="https://media.giphy.com/media/3orieQEA8aG1X4HMP2/giphy.gif" height="30" alt="wavy-divider" />
-
   <img src="https://github-readme-stats.vercel.app/api?username=ritik-bit-by-bit&show_icons=true&theme=radical&hide_border=true&title_color=ff512f&icon_color=ffb347&text_color=fff&bg_color=232946" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=radical&hide_border=true&title_color=f09819&text_color=fff&bg_color=232946&layout=compact" width="48%"/>
 </div>
 
-<br/>
+<br>
 
+<!-- DEV QUOTE -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"/>
-  <img src="https://img.shields.io/badge/-✨%20Dev%20Quote-ff5edf?style=for-the-badge&labelColor=232946&color=ff5edf&labelWidth=130" height="32"/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"/>
+  <img src="https://img.shields.io/badge/-✨%20Dev%20Quote-ff5edf?style=for-the-badge&labelColor=232946&color=ff5edf" height="32"/>
 </p>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<br/>
-<p align="center">
-  <img src="https://media.giphy.com/media/6z1qLqCSYc8Ba/giphy.gif" height="24" />
-</p>
+<br>
 
 <!-- CONTRIBUTION SNAKE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-🐍%20Contribution%20Snake-8E2DE2?style=for-the-badge&labelColor=232946&color=8E2DE2&labelWidth=210" height="32"/>
+  <img src="https://img.shields.io/badge/-🐍%20Contribution%20Snake-8E2DE2?style=for-the-badge&labelColor=232946&color=8E2DE2" height="32"/>
 </p>
 <p align="center">
   <picture>
@@ -220,14 +193,11 @@
   </picture>
 </p>
 
-<br/>
-<p align="center">
-  <img src="https://media.giphy.com/media/YlSR3n0xN9I4k/giphy.gif" height="24" />
-</p>
+<br>
 
 <!-- SUPPORT -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-💰%20Support%20Me-6a82fb?style=for-the-badge&labelColor=232946&color=6a82fb&labelWidth=150" height="32"/>
+  <img src="https://img.shields.io/badge/-💰%20Support%20Me-6a82fb?style=for-the-badge&labelColor=232946&color=6a82fb" height="32"/>
 </p>
 <div align="center">
   <a href="https://buymeacoffee.com/9696588474@paytm" target="_blank">
@@ -237,6 +207,7 @@
   <img src="https://visitcount.itsvg.in/api?id=ritik-bit-by-bit&icon=0&color=8E2DE2" />
 </div>
 
+<!-- ANIMATED SHOOTING STAR BANNER BOTTOM -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5edf,6a82fb,8e2de2,4a00e0&height=80&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%94%A5&fontColor=fff&fontSize=22&fontAlign=80&animation=twinkling" />
+  <img src="https://i.imgur.com/B2T8zmV.gif" width="100%" height="140px" style="border-radius: 16px;" alt="shooting-star-banner"/>
 </p>
