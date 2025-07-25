@@ -282,16 +282,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritik-bit-by-bit&theme=github-compact&hide_border=true&bg_color=23272f&color=00bfff&line=00bfff&point=00bfff" width="80%"/>
 </p>
 
-<!-- LEETCODE STATS (optional, add only if you want) -->
-<h3 align="center">LeetCode Stats</h3>
+<!-- LEETCODE STATS -->
+<hr style="border: 0.5px solid #444;">
+<h2 align="center">🏆 LeetCode Stats</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/btw_its_essei?theme=dark&font=baloo" width="45%" alt="Leetcode Stats" />
+  <img src="https://leetcard.jacoblin.cool/btw_its_essei?theme=dark&font=baloo" width="400px" alt="Leetcode Stats" style="border-radius: 12px; box-shadow: 0 0 10px #111;"/>
 </p>
 
 <!-- ACHIEVEMENTS & LANGUAGES -->
-<h3 align="center">Achievements & Languages</h3>
+<hr style="border: 0.5px solid #444;">
+<h2 align="center">✨ Achievements & Languages</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritik-bit-by-bit&theme=darkhub&no-frame=true&margin-w=7&title=Commit,Issues,PullRequest,Repositories,Followers,Stars" width="70%"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=github_dark&hide_border=true&title_color=00bfff&layout=compact" width="60%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ritik-bit-by-bit&theme=darkhub&no-frame=true&margin-w=7&title=Commit,Issues,PullRequest,Repositories,Followers,Stars" width="80%" style="margin-bottom:16px;"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=github_dark&hide_border=true&title_color=00bfff&layout=compact" width="50%" style="border-radius: 12px;"/>
+</p>
+<hr style="border: 0.5px solid #444;">
