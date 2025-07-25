@@ -215,7 +215,7 @@
 <!-- LEETCODE STATS (optional, add only if you want) -->
 <h3 align="center">LeetCode Stats</h3>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ritikroshanyadav9696?theme=dark&font=baloo" width="45%" alt="Leetcode Stats" />
+  <img src="https://leetcard.jacoblin.cool/btw_its_essei?theme=dark&font=baloo" width="45%" alt="Leetcode Stats" />
 </p>
 
 <!-- ACHIEVEMENTS & LANGUAGES -->
