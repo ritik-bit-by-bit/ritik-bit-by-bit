@@ -92,9 +92,9 @@ icon/icons/swift/swift-original.svg" width="45"/><br/>Swift
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/><br/>Express.js
     </td>
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/><br/>Django
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/><br/>MongoDB
     </td>
@@ -173,12 +173,12 @@ icon/icons/swift/swift-original.svg" width="45"/><br/>Swift
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="45"/><br/>Socket.io
     </td>
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="45"/><br/>Sequelize
-    </td>
-    <td align="center" width="90">
+    </td> -->
+<!--     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45"/><br/>GraphQL
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/><br/>Bootstrap
     </td>
