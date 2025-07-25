@@ -207,32 +207,27 @@ icon/icons/swift/swift-original.svg" width="45"/><br/>Swift
 <table align="center">
 <tr>
   <td align="center"><b>Programming Languages</b><br>
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,swift,kotlin,go" height="35"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,js" height="35"/>
   </td>
 </tr>
 <tr>
   <td align="center"><b>Frontend Development</b><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js" height="35"/>
-  </td>
-</tr>
-<tr>
-  <td align="center"><b>App Development</b><br>
-    <img src="https://skillicons.dev/icons?i=swift,android,flutter,kotlin,react" height="35"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,gsap,shadcn,threejs" height="35"/>
   </td>
 </tr>
 <tr>
   <td align="center"><b>Libraries and Frameworks</b><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwind,jquery,bootstrap,django,selenium" height="35"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwind,bootstrap" height="35"/>
   </td>
 </tr>
 <tr>
   <td align="center"><b>Databases</b><br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firestore" height="35"/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" height="35"/>
   </td>
 </tr>
 <tr>
   <td align="center"><b>Cloud</b><br>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,vercel,netlify" height="35"/>
+    <img src="https://skillicons.dev/icons?i=aws,vercel,netlify" height="35"/>
   </td>
 </tr>
 </table>
