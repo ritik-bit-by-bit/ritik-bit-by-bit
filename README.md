@@ -1,16 +1,14 @@
-<!-- GLOWING HEADER SVG -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://svg-text.vercel.app/api?text=Ritik%20Roshan%20Yadav&fontSize=56&fontFamily=Orbitron&color=0FFF50&glow=10&glowColor=00ffae" alt="Neon Ritik Roshan Yadav" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=222831&height=90&section=header&text=Ritik%20Roshan%20Yadav&fontColor=0FFF50&fontSize=38&fontAlign=60&animation=twinkling" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=700&color=0FFF50&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Cloud+Enthusiast+%F0%9F%92%A1;Welcome+to+my+Neon+GitHub+World!" />
 </p>
 
----
-
-<!-- About Me (Glowing SVG Heading) -->
+<!-- About Me -->
 <p align="center">
-  <img src="https://svg-text.vercel.app/api?text=🚀%20About%20Me&fontSize=36&fontFamily=Orbitron&color=0FFF50&glow=6&glowColor=00ffae" />
+  <img src="https://img.shields.io/badge/-🚀%20About%20Me-0FFF50?style=for-the-badge&labelColor=222831&color=0FFF50&labelWidth=120" height="32"/>
 </p>
 
 <div align="center">
@@ -18,7 +16,7 @@
     <tr>
       <td style="padding:18px;">
         <div align="left">
-          <span style="color:#0FFF50; font-size:20px;">
+          <span style="color:#0FFF50; font-size:19px;">
             <b>👨‍💻 Coder. 🌐 Cloud-native. 🚀 Always exploring.</b>
           </span><br><br>
           <span style="color:#caffd8;">
@@ -32,11 +30,11 @@
   </table>
 </div>
 
----
+<br>
 
-<!-- Tech Stack (Glowing SVG Heading) -->
+<!-- Tech Stack -->
 <p align="center">
-  <img src="https://svg-text.vercel.app/api?text=🛠️%20Tech%20Stack&fontSize=36&fontFamily=Orbitron&color=0FFF50&glow=6&glowColor=00ffae" />
+  <img src="https://img.shields.io/badge/-🛠️%20Tech%20Stack-0FFF50?style=for-the-badge&labelColor=222831&color=0FFF50&labelWidth=140" height="32"/>
 </p>
 
 <div align="center">
@@ -47,7 +45,7 @@
           <tr>
             <td align="center" width="110">
               <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>
-              <span style="color:#0FFF50; font-weight:bold; text-shadow: 0 0 7px #00ffae;">HTML5</span>
+              <span style="color:#0FFF50; font-weight:bold;">HTML5</span>
             </td>
             <td align="center" width="110">
               <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>
@@ -160,11 +158,11 @@
   </table>
 </div>
 
----
+<br>
 
-<!-- Connect (Glowing SVG Heading) -->
+<!-- Connect -->
 <p align="center">
-  <img src="https://svg-text.vercel.app/api?text=🌐%20Connect%20with%20Me&fontSize=30&fontFamily=Orbitron&color=0FFF50&glow=4&glowColor=00ffae" />
+  <img src="https://img.shields.io/badge/-🌐%20Connect%20with%20Me-0FFF50?style=for-the-badge&labelColor=222831&color=0FFF50&labelWidth=180" height="32"/>
 </p>
 
 <div align="center">
@@ -182,36 +180,40 @@
   </a>
 </div>
 
----
+<br>
 
-<!-- GitHub Stats (Glowing SVG Heading) -->
+<!-- Stats -->
 <p align="center">
-  <img src="https://svg-text.vercel.app/api?text=📊%20GitHub%20Stats&fontSize=30&fontFamily=Orbitron&color=0FFF50&glow=4&glowColor=00ffae" />
+  <img src="https://img.shields.io/badge/-📊%20GitHub%20Stats-0FFF50?style=for-the-badge&labelColor=222831&color=0FFF50&labelWidth=170" height="32"/>
 </p>
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=ritik-bit-by-bit&show_icons=true&theme=react&hide_border=true&title_color=0FFF50&icon_color=0FFF50&text_color=0FFF50&bg_color=222831" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ritik-bit-by-bit&theme=react&hide_border=true&stroke=0FFF50&ring=0FFF50&background=222831&currStreakLabel=0FFF50&currStreakNum=0FFF50" width="48%"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=react&hide_border=true&title_color=0FFF50&text_color=0FFF50&bg_color=222831&layout=compact" width="48%"/>
-</p>
 
----
+</div>
 
-<!-- Dev Quote (Glowing SVG Heading) -->
+<br>
+
+<!-- Dev Quote -->
 <p align="center">
-  <img src="https://svg-text.vercel.app/api?text=✨%20Dev%20Quote&fontSize=30&fontFamily=Orbitron&color=0FFF50&glow=4&glowColor=00ffae" />
+  <img src="https://img.shields.io/badge/-✨%20Dev%20Quote-0FFF50?style=for-the-badge&labelColor=222831&color=0FFF50&labelWidth=150" height="32"/>
 </p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg=0FFF50&text=222831" />
 </p>
 
----
+<br>
 
-<!-- Contribution Snake (Glowing SVG Heading) -->
+<!-- Snake -->
 <p align="center">
-  <img src="https://svg-text.vercel.app/api?text=🐍%20Contribution%20Snake&fontSize=30&fontFamily=Orbitron&color=0FFF50&glow=4&glowColor=00ffae" />
+  <img src="https://img.shields.io/badge/-🐍%20Contribution%20Snake-0FFF50?style=for-the-badge&labelColor=222831&color=0FFF50&labelWidth=230" height="32"/>
 </p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritik-bit-by-bit/ritik-bit-by-bit/output/github-snake-dark.svg" />
@@ -220,19 +222,20 @@
   </picture>
 </p>
 
----
+<br>
 
-<!-- Support Me (Glowing SVG Heading) -->
+<!-- Support -->
 <p align="center">
-  <img src="https://svg-text.vercel.app/api?text=💰%20Support%20Me&fontSize=30&fontFamily=Orbitron&color=0FFF50&glow=4&glowColor=00ffae" />
+  <img src="https://img.shields.io/badge/-💰%20Support%20Me-0FFF50?style=for-the-badge&labelColor=222831&color=0FFF50&labelWidth=130" height="32"/>
 </p>
-<p align="center">
+
+<div align="center">
   <a href="https://buymeacoffee.com/9696588474@paytm" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0FFF50?style=for-the-badge&logo=buy-me-a-coffee&logoColor=222831"/>
   </a>
   <br><br>
   <img src="https://visitcount.itsvg.in/api?id=ritik-bit-by-bit&icon=0&color=0FFF50" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=222831&height=70&section=footer&text=%20Thanks%20for%20visiting%20👾&fontColor=0FFF50&fontSize=22&fontAlign=80&animation=twinkling" />
