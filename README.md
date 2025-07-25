@@ -224,4 +224,16 @@
 
 <!-- Support Me (Glowing SVG Heading) -->
 <p align="center">
-  <img src="https://svg-text.vercel.app/api?text=💰%20Support%20Me&fontSize=30&fontFamily=Orbitron&color=0FFF50&glow=4&glowColor=00ffae" /
+  <img src="https://svg-text.vercel.app/api?text=💰%20Support%20Me&fontSize=30&fontFamily=Orbitron&color=0FFF50&glow=4&glowColor=00ffae" />
+</p>
+<p align="center">
+  <a href="https://buymeacoffee.com/9696588474@paytm" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0FFF50?style=for-the-badge&logo=buy-me-a-coffee&logoColor=222831"/>
+  </a>
+  <br><br>
+  <img src="https://visitcount.itsvg.in/api?id=ritik-bit-by-bit&icon=0&color=0FFF50" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=222831&height=70&section=footer&text=%20Thanks%20for%20visiting%20👾&fontColor=0FFF50&fontSize=22&fontAlign=80&animation=twinkling" />
+</p>
