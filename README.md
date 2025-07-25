@@ -1,6 +1,6 @@
 <!-- MAIN TITLE -->
 <h1 align="center" style="border-bottom: none;">
-  <span style="color:#00bfff; font-weight:bold;">Web</span>
+  <span style="color:#00bfff; font-weight:bold;">Full Stack Developer</span>
 </h1>
 
 <br>
