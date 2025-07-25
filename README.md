@@ -289,6 +289,16 @@
   <img src="https://leetcard.jacoblin.cool/btw_its_essei?theme=dark&font=baloo" width="400px" alt="Leetcode Stats" style="border-radius: 12px; box-shadow: 0 0 10px #111;"/>
 </p>
 
+<!-- ACHIEVEMENTS -->
+<h2 align="center">🏅 Achievements</h2>
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=ritik-bit-by-bit&theme=darkhub&no-frame=true&margin-w=12&title=Commit,Issues,PullRequest,Repositories,Followers,Stars" 
+    width="80%" 
+    alt="Trophy"
+  />
+</p>
+<hr>
 <!-- MOST USED LANGUAGES -->
 <hr>
 <h2 align="center">🌈 Most Used Languages</h2>
@@ -297,17 +307,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=github_dark&hide_border=true&title_color=00bfff&layout=compact" 
     width="55%" 
     alt="Top Languages"
-  />
-</p>
-<hr>
-
-<!-- ACHIEVEMENTS -->
-<h2 align="center">🏅 Achievements</h2>
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=ritik-bit-by-bit&theme=darkhub&no-frame=true&margin-w=12&title=Commit,Issues,PullRequest,Repositories,Followers,Stars" 
-    width="80%" 
-    alt="Trophy"
   />
 </p>
 <hr>
