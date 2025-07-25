@@ -17,19 +17,110 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,redux,tailwind,vite,nextjs,ejs" height="45"/>
-  <br>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,java,cpp,c" height="45"/>
-  <br>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma" height="45"/>
-  <br>
-  <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,netlify,git,github,postman,jenkins,vscode" height="45"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/><br/>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/><br/>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/><br/>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br/>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" alt="Vue.js"/><br/>Vue.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=redux" width="48" alt="Redux"/><br/>Redux
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="TailwindCSS"/><br/>TailwindCSS
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite"/><br/>Vite
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/><br/>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express"/><br/>Express
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=django" width="48" alt="Django"/><br/>Django
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br/>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/><br/>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/><br/>C++
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=c" width="48" alt="C"/><br/>C
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/><br/>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/><br/>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br/>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis"/><br/>Redis
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" alt="Prisma"/><br/>Prisma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/><br/>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" alt="Kubernetes"/><br/>Kubernetes
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS"/><br/>AWS
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/><br/>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman"/><br/>Postman
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" alt="Jenkins"/><br/>Jenkins
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/><br/>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Vercel"/><br/>Vercel
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" alt="Netlify"/><br/>Netlify
+    </td>
+  </tr>
+</table>
 
 ---
 
