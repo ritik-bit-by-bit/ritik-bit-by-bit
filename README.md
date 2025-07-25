@@ -200,6 +200,45 @@
 </details>
 
 <br>
+<!-- GITHUB STATS SECTION, SHIVAM STYLE -->
+
+<h2 align="center"> <img src="https://emojigraph.org/media/microsoft/fire_1f525.png" width="28"/> GitHub Stats</h2>
+
+<details>
+  <summary> ▶️ Details</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritik-bit-by-bit&theme=github_dark" width="100%" />
+    <br><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritik-bit-by-bit&theme=github_dark" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritik-bit-by-bit&theme=github_dark" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritik-bit-by-bit&theme=github_dark" width="32%" />
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritik-bit-by-bit&theme=github_dark&utcOffset=8" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=ritik-bit-by-bit&theme=github_dark" width="49%" />
+    <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritik-bit-by-bit&theme=github-compact&hide_border=true&bg_color=23272f&color=00bfff&line=00bfff&point=00bfff" width="98%"/>
+  </p>
+</details>
+
+---
+
+<!-- LEETCODE STATS (Replace with your Leetcode username if you have one) -->
+<h3 align="center">Leetcode Stats</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ritikroshanyadav9696?theme=dark&font=baloo" alt="Leetcode Stats" />
+</p>
+
+---
+
+<!-- ACHIEVEMENTS, LANGUAGES, DISCUSSIONS, REACTIONS (Community Widgets) -->
+
+<h3 align="center">Achievements & Community</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ritik-bit-by-bit&theme=darkhub&no-frame=true&margin-w=7&title=Commit,Issues,PullRequest,Repositories,Followers,Stars" width="80%"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=github_dark&hide_border=true&title_color=00bfff&layout=compact" width="55%" />
+</p>
 
 <!-- CONTRIBUTION SNAKE -->
 <p align="center">
