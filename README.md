@@ -187,65 +187,41 @@
 
 <br>
 
-<!-- GITHUB STATS -->
-<h2 align="center"> <img src="https://emojigraph.org/media/microsoft/fire_1f525.png" width="28"/> GitHub Stats</h2>
-<details>
-  <summary> ▶️ Details</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ritik-bit-by-bit&show_icons=true&theme=github_dark&hide_border=true&bg_color=23272f" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=github_dark&hide_border=true&bg_color=23272f&layout=compact" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ritik-bit-by-bit&theme=github-dark&hide_border=true&background=23272f" width="99%"/>
-  </p>
-</details>
-
-<br>
-<!-- GITHUB STATS SECTION, SHIVAM STYLE -->
-
 <h2 align="center"> <img src="https://emojigraph.org/media/microsoft/fire_1f525.png" width="28"/> GitHub Stats</h2>
 
-<details>
-  <summary> ▶️ Details</summary>
+<p align="center">
+  <!-- Main profile details card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritik-bit-by-bit&theme=github_dark" width="70%" />
+</p>
+
+<p align="center">
+  <!-- Languages and commit stats (row 1) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritik-bit-by-bit&theme=github_dark" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritik-bit-by-bit&theme=github_dark" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritik-bit-by-bit&theme=github_dark" width="30%" />
+</p>
+
+<p align="center">
+  <!-- Productive time and summary (row 2) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritik-bit-by-bit&theme=github_dark&utcOffset=8" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=ritik-bit-by-bit&theme=github_dark" width="45%" />
+</p>
+
+<p align="center">
+  <!-- Activity graph (smaller) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritik-bit-by-bit&theme=github-compact&hide_border=true&bg_color=23272f&color=00bfff&line=00bfff&point=00bfff" width="80%"/>
+</p>
+
+<!-- LEETCODE STATS (optional, add only if you want) -->
+<h3 align="center">LeetCode Stats</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ritikroshanyadav9696?theme=dark&font=baloo" width="45%" alt="Leetcode Stats" />
+</p>
+
+<!-- ACHIEVEMENTS & LANGUAGES -->
+<h3 align="center">Achievements & Languages</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ritik-bit-by-bit&theme=darkhub&no-frame=true&margin-w=7&title=Commit,Issues,PullRequest,Repositories,Followers,Stars" width="70%"/>
   <br>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritik-bit-by-bit&theme=github_dark" width="100%" />
-    <br><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritik-bit-by-bit&theme=github_dark" width="32%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritik-bit-by-bit&theme=github_dark" width="32%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritik-bit-by-bit&theme=github_dark" width="32%" />
-    <br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritik-bit-by-bit&theme=github_dark&utcOffset=8" width="49%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=ritik-bit-by-bit&theme=github_dark" width="49%" />
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritik-bit-by-bit&theme=github-compact&hide_border=true&bg_color=23272f&color=00bfff&line=00bfff&point=00bfff" width="98%"/>
-  </p>
-</details>
-
----
-
-<!-- LEETCODE STATS (Replace with your Leetcode username if you have one) -->
-<h3 align="center">Leetcode Stats</h3>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ritikroshanyadav9696?theme=dark&font=baloo" alt="Leetcode Stats" />
-</p>
-
----
-
-<!-- ACHIEVEMENTS, LANGUAGES, DISCUSSIONS, REACTIONS (Community Widgets) -->
-
-<h3 align="center">Achievements & Community</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritik-bit-by-bit&theme=darkhub&no-frame=true&margin-w=7&title=Commit,Issues,PullRequest,Repositories,Followers,Stars" width="80%"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=github_dark&hide_border=true&title_color=00bfff&layout=compact" width="55%" />
-</p>
-
-<!-- CONTRIBUTION SNAKE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ritik-bit-by-bit/ritik-bit-by-bit/output/github-snake-dark.svg" alt="github-snake" />
-</p>
-
-<!-- FOOTER (OPTIONAL) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2,4a00e0&height=80&section=footer&text=Thanks%20for%20visiting!%20🚀&fontColor=fff&fontSize=22&fontAlign=80&animation=twinkling" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=github_dark&hide_border=true&title_color=00bfff&layout=compact" width="60%" />
 </p>
