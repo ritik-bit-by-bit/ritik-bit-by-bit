@@ -53,9 +53,9 @@
 
 <!-- WHAT I'M DOING -->
 <ul>
-  <li>🔨 <b>I'm currently working on:</b> Next.js, Django, Golang, SwiftUI</li>
-  <li>🌱 <b>I'm currently learning:</b> DevOps, Framer Motion</li>
-  <li>💬 <b>Ask me about:</b> Web Development, iOS/Android, Cloud, Competitive Programming</li>
+  <li>🔨 <b>I'm currently working on:</b> Next.js, Django</li>
+  <li>🌱 <b>I'm currently learning:</b> DevOps, GSAP</li>
+  <li>💬 <b>Ask me about:</b> Web Development,Competitive Programming</li>
 </ul>
 
 <p align="center">
