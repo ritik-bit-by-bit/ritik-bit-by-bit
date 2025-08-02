@@ -53,7 +53,7 @@
 
 <!-- WHAT I'M DOING -->
 <ul>
-  <li>🔨 <b>I'm currently working on:</b> Next.js, Django</li>
+  <li>🔨 <b>I'm currently working on:</b> Next.js, TypeScript</li>
   <li>🌱 <b>I'm currently learning:</b> DevOps, GSAP</li>
   <li>💬 <b>Ask me about:</b> Web Development,Competitive Programming</li>
 </ul>
