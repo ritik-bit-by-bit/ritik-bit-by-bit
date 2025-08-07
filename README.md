@@ -196,9 +196,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritik-bit-by-bit&theme=github_dark&utcOffset=8" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=ritik-bit-by-bit&theme=github_dark" width="45%" />
 </p>
-<p>
+<div>
   ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-</p>
+</div>
 
 <p align="center">
   <img src="https://media.tenor.com/dSsf8n5A4P0AAAAC/music-bar-bar.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
