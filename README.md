@@ -197,7 +197,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-summary?username=ritik-bit-by-bit&theme=github_dark" width="45%" />
 </p>
 <div>
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/ritik-bit-by-bit/ritik-bit-by-bit/blob/output/github-snake-dark.svg)
 </div>
 
 <p align="center">
