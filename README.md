@@ -215,7 +215,7 @@
 <h2 align="center">🏅 Achievements</h2>
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=ritik-bit-by-bit&theme=darkhub&no-frame=true&margin-w=12&title=Commit,Issues,PullRequest,Repositories,Followers,Stars" 
+    src="https://github-profile-trophy.vercel.app/?username=ritik-bit-by-bit&theme=darkhub&no-frame=true&margin-w=12&title=Commit,Issues,PullRequest,Repositories,Stars" 
     width="80%" 
     alt="Trophy"
   />
