@@ -228,13 +228,9 @@
 <!-- MOST USED LANGUAGES -->
 <h2 align="center">🌈 Most Used Languages</h2>
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=github_dark&hide_border=true&title_color=00bfff&layout=compact" 
-    width="55%" 
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-bit-by-bit&theme=radical&hide_border=true&title_color=00bfff&layout=compact&langs_count=8" width="70%" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img src="https://media.tenor.com/dSsf8n5A4P0AAAAC/music-bar-bar.gif" width="380" height="18" alt="DJ Equalizer Animation"/>
-</p> can u make my readme .md more beautiful 
+</p> 
